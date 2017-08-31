@@ -22,7 +22,7 @@
 jupyter==1.0.0
 matplotlib==1.5.3
 numexpr==2.6.1
-numpy==1.12.0
+numpy==1.13.1
 pandas==0.19.1
 Pillow==3.4.2
 protobuf==3.0.0
@@ -32,6 +32,8 @@ scipy==0.18.1
 sympy==1.0
 tensorflow==1.0.0
 xgboost==0.6a2
+scikit-image==0.13.0
+watermark==1.4.0
 
 # Optional: OpenAI gym is only needed for the Reinforcement Learning chapter.
 # There are a few dependencies you need to install first, check out:
